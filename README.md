@@ -1,3 +1,2 @@
 # expense_tracking_app
-please check my code
-I do not know what is wrong on line 16
+## this is the very first my app before jumping into ML field
